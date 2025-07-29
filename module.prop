@@ -1,0 +1,6 @@
+id=AARoleFix
+name=Android Auto Role Fix for MIUI / HyperOS
+version=0.1
+versionCode=1
+author=Choultion Rudas
+description=A companion module for aa4mg. Fixes the roles for Android Auto on CN ROMs.
