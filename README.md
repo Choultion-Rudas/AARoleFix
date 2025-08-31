@@ -20,8 +20,7 @@ This module replaces the incomplete `GmsCnConfigOverlay.apk` with the full versi
 
 ### Usage
 
-If you have already correctly installed `aa4mg` but the phone shows no reaction without any error, then try installing this module alongside the `aa4mg` module to resolve the issue. **Note that the module mount mode must be `OverlayFS` for this module to work stably.**
-
+If you have already correctly installed `aa4mg` but the phone shows no reaction without any error, then try installing this module alongside the `aa4mg` module to resolve the issue.
 ### Credits
 
 - Core solution discovered and detailed from [here](https://zhuanlan.zhihu.com/p/743030058).
